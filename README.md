@@ -5,7 +5,7 @@
 - 💬 Ask me about basic programing problems
 - 📫 How to reach me: Instagram - @finsoncoutinho [https://www.instagram.com/finsoncoutinho/]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have a youtube chennel
+- ⚡ Fun fact: I have a youtube channel
 
 <!--
 **finsoncoutinho/finsoncoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
