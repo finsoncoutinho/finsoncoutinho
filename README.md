@@ -1,9 +1,9 @@
 ### Hi there, I'am Finson Coutinho👋
 
-- 🔭 I’m currently working on a Edtech platform
+- 🔭 I’m currently working on a Edtech platform 
 - 🌱 I’m currently learning Web Dev
 - 💬 Ask me about basic programing problems
-- 📫 How to reach me: Instagram - @finsoncoutinho [https://www.instagram.com/finsoncoutinho/]
+- 📫 How to reach me: Twitter - @finsoncoutinho [https://twitter.com/finsoncoutinho]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a youtube channel
 
