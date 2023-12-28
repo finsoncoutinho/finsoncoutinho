@@ -2,7 +2,7 @@
 <p align="center">A passionate full-stack developer from India</p>
 </br>
 
-🔭 I’m currently working on [Reshop](https://github.com/finsoncoutinho/reshop) <br>🌱 I’m currently learning **Typescript, NodeJS, MySQL & NextJS**<br>💬 Ask me about **Javascript, React, MongoDB, NodeJS & NextJS**<br>📫 How to reach me **coutinhofinson21@gmail.com**<br>⚡ Fun fact **I have a youtube channel**
+🔭 I’m currently working on [DevNotes](https://github.com/finsoncoutinho/devnotes) <br>🌱 I’m currently learning **Typescript, NodeJS, MySQL & NextJS**<br>💬 Ask me about **Javascript, React, MongoDB, NodeJS & NextJS**<br>📫 How to reach me **coutinhofinson21@gmail.com**<br>⚡ Fun fact **I have a youtube channel**
 
 ## 🌐 Socials:
 
