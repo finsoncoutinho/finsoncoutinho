@@ -4,6 +4,8 @@
 
 🔭 I’m currently working on [DevNotes](https://github.com/finsoncoutinho/devnotes) <br>🌱 I’m currently learning **Typescript, NodeJS, MySQL & NextJS**<br>💬 Ask me about **Javascript, React, MongoDB, NodeJS & NextJS**<br>📫 How to reach me **coutinhofinson21@gmail.com**<br>⚡ Fun fact **I have a youtube channel**
 
+### [🖥️ My Portfolio](https://finsoncoutinho.com/)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finsoncoutinho) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/finsoncoutinho) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@finsoncoutinho)
